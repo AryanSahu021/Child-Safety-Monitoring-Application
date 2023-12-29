@@ -1,5 +1,7 @@
 # Child Safety Monitoring - Android/iOS Application
 Designed and deployed an Android/iOS app for a smart bicycle to help parents monitor their child’s safety.
+This was done as a Course Project alongside my fellow student Aditya Kumar.
+The Course was ES244: Signal, Systems and Random Processes, under the guidance of Professor Nithin V. George, IIT Gandhinagar.
 ## Link to Demonstration and Description video: https://youtu.be/UpfmnQTbhro
 The smart bicycle has embedded hardware sensors and systems such as a gyroscope, accelerometer, GPS, microphone, and antenna. For this problem statement, assume that your Android/iOS mobile phone (Phone A)  behaves as the smart IoT embedded system and you are riding a (sensorless old-fashioned) bicycle. It is able to transmit the data to your partner's device (parents’ Android/iOS mobile hereafter referred to as Phone 😎 for warning.
 
